@@ -22,4 +22,6 @@ The features of this instrument are now the following:
   * Wet level
   * Dry level
  
- Enjoy! :musical_note: :musical_keyboard: :smile:
+I wanted to use the snapshot feature of Kontakt to include a few different presets, but it seems that snapshot files would have to be manually placed in a separate folder, if I am not mistaken. So instead I made some copies of the nki file, each with different settings.
+ 
+Enjoy! :musical_note: :musical_keyboard: :smile:
