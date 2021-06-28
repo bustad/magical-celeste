@@ -13,11 +13,11 @@ The features of this instrument are now the following:
   * High pass filter
   * Low pass filter
   * Stereo width
-  * ADSR including attack curve
+  * ADSR including attack curve and hold
 * Sine wave
   * Volume
   * LFO level and frequency
-  * ADSR including attack curve
+  * ADSR including attack curve and hold
 * Reverb
   * Wet level
   * Dry level
