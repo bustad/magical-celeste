@@ -7,7 +7,7 @@ I found some [free public domain celeste samples](https://freesound.org/people/s
 ![screenshot](screenshot.png)
 
 The features of this instrument are now the following:
-* Celeaste samples
+* Celeste samples
   * The transition between the two velocity layers of the celeste samples can be adjusted using the normal/medium/soft buttons. Soft means that only the soft velocity layer is used.
   * Volume
   * High pass filter
