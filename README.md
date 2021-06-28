@@ -6,3 +6,20 @@ I found some [free public domain celeste samples](https://freesound.org/people/s
 
 ![screenshot](screenshot.png)
 
+The features of this instrument are now the following:
+* Celeaste samples
+  * The transition between the two velocity layers of the celeste samples can be adjusted using the normal/medium/soft buttons. Soft means that only the soft velocity layer is used.
+  * Volume
+  * High pass filter
+  * Low pass filter
+  * Stereo width
+  * ADSR including attack curve
+* Sine wave
+  * Volume
+  * LFO level and frequency
+  * ADSR including attack curve
+* Reverb
+  * Wet level
+  * Dry level
+ 
+ Enjoy!
